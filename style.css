@@ -1,0 +1,134 @@
+
+.navbar{
+height: 150px;
+display: flex;
+}
+.navbar_right{
+   margin-left: 500px;
+}
+.navbar_frase{
+    font-family: 'Rajdhani', sans-serif;
+  
+}
+.navbar_frase{
+  display: flex;
+  
+}
+
+#divBusca{
+  margin-left: 15px;
+}
+.button_btn img{
+  height: 10px;
+  width: 15px;
+}
+.navbar_frase_duo{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 11px;
+  margin-top: 15px;
+  margin-left: 146px;
+}
+.navbar_frase_tree{
+  display: flex;
+  margin-top: 15px;
+}
+.item_one img{
+  height: 15px;
+  width: 15px;
+}
+.navbar_frase_for{
+  margin-left: 15px;
+}
+
+.navbar_frase_for img{
+  height: 15px;
+  width: 15px;
+}
+.navbar_frase_five{
+  margin-left: 15px;
+  
+}
+.section{
+height: 20px;
+background-color: black;
+margin-top: -25px;
+}
+.link_1{
+ margin-left: 65px;
+
+ color: aliceblue;
+}
+.area{
+margin-top: 5px;
+height: 250px;
+background-image: url(./assests/img_inicio.jpg);
+text-align: center;
+text-justify:inherit;
+padding-top: 250px;
+}
+.area_intro{
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 2rem;
+}
+
+.area_frase{
+  font-family: 'Josefin Sans', sans-serif;
+  margin-top: 5px;
+}
+.area_bnt{
+  margin-top: 5px;
+  border-radius: 15px;
+}
+.area_bnt :hover {
+  background-color: dimgray;
+  
+}
+.imagens{
+  display: flex;
+  margin-top: 15px;
+}
+.img_1{
+  height: 350px;
+  width: 400px;
+  margin-top: 5px;
+  margin-left: 30px;  
+  background-image: url(./assests/acessorio_femenino.jpg);
+  background-size: cover; 
+  text-align: center;
+
+ 
+
+}
+
+
+
+.img_2{
+  height: 350px;
+  width: 400px;
+  background-color: rgb(43, 255, 0);
+  margin-top: 5px;
+  margin-left: 25px;
+}
+.img_3{
+  height: 350px;
+  width: 400px;
+  background-color: rgb(255, 0, 242);
+  margin-top: 5px;
+  margin-left: 25px;
+}
+.vendas{
+  display: flex;
+  margin-top: 15px;
+}
+.vendas_1{
+  margin-left: 75px;
+  text-align: center;
+
+}
+#comprar{
+  font-family: 'Righteous', cursive;
+  margin-top: 15px;
+  text-align: center;
+
+
+}
